@@ -1,7 +1,7 @@
 export class Employee {
-    _id: string;
-    name: string;
-    position: string;
-    office: string;
-    salary: number;
+  _id: string;
+  age: number;
+  family: string;
+  breed: string;
+  food: string;
 }
